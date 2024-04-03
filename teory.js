@@ -24,7 +24,7 @@
 // const promiseA = makePromise("promiseA value", 5000);
 // const promiseB = makePromise("promiseB value", 10000);
 // const promiseC = makePromise("promiseC value", 500);
-// Promise.race([promiseA, promiseB,promiseC])
+// Promise.race([promiseA, promiseB, promiseC])
 //   .then((value) => console.log(value))
 //   .catch((error) => console.log(error));
 
